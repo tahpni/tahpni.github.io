@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Welcome to Om's Page
-banner_subtitle: Diving into the Intersections
+banner_subtitle: Premed Student | Wannabe Programmer
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -20,13 +20,13 @@ linkedin: om-k-6b66a3272 # the part after ("https://www.linkedin.com/in")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://tahpni.github.io # the link
-about_button_label: My Best Project
+about_button_label: Get Started Here
 
 # optional portfolio section ------------------------------------------
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: work # the heading for your portfolio and title of your YAML file
+portfolio: Recent Blogs # the heading for your portfolio and title of your YAML file
 portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
@@ -39,12 +39,8 @@ cta_button_label: Contact Me
 
 ---			
 [//]: # (write a bit about yourself here)
-Hi, I'm Om Kulkarni, a junior at Rutgers University. I'm majoring in Cell Biology and Neuroscience on the premed track, with a minor in Psychology.
-I'm also self-studying Computer Science with a strong interest in Artificial Intelligence. 
+Hi, I’m Om Kulkarni. I'm currently a junior at Rutgers University on the premed track. I’m also self-studying Computer Science with a focus on AI.
 
-When I'm not studying or working on projects, I enjoy reading and working out.
+I enjoy reading and working out in my free time. I contribute to programs aiding in mental health and delirium prevention for all age groups, but with a focus on the senior adult population. I am also actively volunteering in the Emergency Room at JFK University Medical Center.
 
-I have/am currently ontributing to programs like HELP and TCAB at various hospital locations, such as Hackensack University Medical Center and JFK University Medical Center.
-Previously I have had experience at the Crisis Textline and have certifications in multiple CS courses.
-
-Feel free to explore my projects, connect with me on [GitHub](https://github.com/taphni) or [LinkedIn](https://www.linkedin.com/in/om-k-6b66a3272/), and reach out if you have any questions or collaboration ideas.
+Explore my projects and connect with me on [GitHub](https://github.com/taphni) or [LinkedIn](https://www.linkedin.com/in/om-k-6b66a3272/). Feel free to reach out for questions or collaborations.
