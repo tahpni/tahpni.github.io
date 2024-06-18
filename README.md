@@ -12,7 +12,7 @@ This GitHub Pages site showcases my projects and notes in various fields:
 
 ## Featured Projects
 
-### Neural Network from Scratch
+#### Neural Network from Scratch
 
 	•	Project Title: Handwritten Digit Recognizer
 	•	Description: A step-by-step guide to building a neural network in C++.
@@ -30,14 +30,6 @@ I’m always open to collaboration and discussions. Feel free to reach out to me
 
 #### Email: taphni@icloud.com
 
-## Contributing
-
-If you’d like to contribute to any of my projects or have any suggestions, please:
-
-	1.	Fork the repository.
-	2.	Make your changes.
-	3.	Submit a pull request.
-
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License. If you’d like to contribute to any of my projects or have any suggestions, please let me know.
