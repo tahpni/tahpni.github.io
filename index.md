@@ -39,7 +39,8 @@ cta_button_label: Contact Me
 
 ---			
 [//]: # (write a bit about yourself here)
-Hi, I’m Om Kulkarni. I'm currently a junior at Rutgers University on the premed track. I’m also self-studying Computer Science with a focus on AI.
+Hi, I’m Om Kulkarni. I'm currently a junior at Rutgers University on the premed track.
+I’m also self-studying Computer Science with a focus on AI.
 
 I enjoy reading and working out in my free time. I contribute to programs aiding in mental health and delirium prevention for all age groups, but with a focus on the senior adult population. I am also actively volunteering in the Emergency Room at JFK University Medical Center.
 
