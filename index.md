@@ -34,21 +34,21 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # By declaring these variables, you can include a CTA section.
 cta: connect
 cta_description: Questions, comments, or collaboration ideas? Please don't hesitate to reach out
-cta_button: mailto:om.kulkarni@example.com
+cta_button: mailto:taphni@icloud.com
 cta_button_label: Contact Me
 
 ---			
 [//]: # (write a bit about yourself here)
-Hi, I'm Om Kulkarni, a junior at Rutgers University. I'm majoring in Cell Biology and Neuroscience on the premed track, with a minor in Psychology. Additionally, I'm self-studying Computer Science with a strong interest in Artificial Intelligence. My ultimate goal is to merge these disciplines to advance medical research, particularly in addressing aging-related challenges.
+Hi, I'm Om Kulkarni, a junior at Rutgers University. I'm majoring in Cell Biology and Neuroscience on the premed track, with a minor in Psychology.
+I'm also self-studying Computer Science with a strong interest in Artificial Intelligence. 
 
-I have a passion for learning and exploring new ideas, which drives my diverse interests and projects. Here on my GitHub Pages site, you'll find a variety of my work, including:
+Here on my GitHub Pages site, you'll find a variety of my work:
 
-- **AI Research**: What I've learned in trying to teach myself Machine Learning and Artificial Intelligence.
-- **MCAT Preparation**: Tools and resources to aid in my journey towards medical school.
+**AI Projects**: What I've learned in trying to teach myself Machine Learning and Artificial Intelligence.
+**MCAT Preparation**: Tools and resources to aid in my journey towards medical school.
 
-When I'm not studying or working on projects, I enjoy reading, working out, and spending time with friends. I'm also actively involved in volunteer work at hospitals, contributing to programs like HELP and TCAB at various hospital locations, such as Hackensack University Medical Center and JFK University Medical Center.
+When I'm not studying or working on projects, I enjoy reading and working out.
 
-Feel free to explore my projects, connect with me on [GitHub](https://github.com/OmKulkarni) or [LinkedIn](https://www.linkedin.com/in/om-k-6b66a3272/), and reach out if you have any questions or collaboration ideas.
+I'm also actively involved in volunteer work at hospitals, contributing to programs like HELP and TCAB at various hospital locations, such as Hackensack University Medical Center and JFK University Medical Center.
 
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+Feel free to explore my projects, connect with me on [GitHub](https://github.com/taphni) or [LinkedIn](https://www.linkedin.com/in/om-k-6b66a3272/), and reach out if you have any questions or collaboration ideas.
