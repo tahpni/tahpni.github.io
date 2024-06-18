@@ -1,7 +1,7 @@
 
 About Me
 
-Hello, I’m Tahpni! I’m a student at Rutgers University, majoring in Cell Biology and Neuroscience on the Pre-med track, with a minor in Psychology.
+Hello! I’m a student at Rutgers University, majoring in Cell Biology and Neuroscience on the Pre-med track, with a minor in Psychology.
 I’m also self-studying Computer Science with a focus on Machine Learning and Artificial Intelligence.
 
 What You’ll Find Here:
