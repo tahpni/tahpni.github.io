@@ -42,8 +42,8 @@ cta_button_label: Contact Me
 Hi, I'm Om Kulkarni, a junior at Rutgers University. I'm majoring in Cell Biology and Neuroscience on the premed track, with a minor in Psychology.
 I'm also self-studying Computer Science with a strong interest in Artificial Intelligence. 
 
-**AI Projects**: What I've learned in trying to teach myself Machine Learning and Artificial Intelligence.
-**MCAT Preparation**: Tools and resources to aid in my journey towards medical school.
+## **AI Projects**: What I've learned in trying to teach myself Machine Learning and Artificial Intelligence.
+## **MCAT Preparation**: Tools and resources to aid in my journey towards medical school.
 
 When I'm not studying or working on projects, I enjoy reading and working out.
 
