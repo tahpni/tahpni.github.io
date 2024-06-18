@@ -1,5 +1,5 @@
 ---
-layout: hello-default
+layout: Welcome-default
 
 # using Markdown language, you can customize the following variables!
 
@@ -15,12 +15,12 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-github_username:  tahpni # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/om-k-6b66a3272/")
+github_username: tahpni # your github username
+linkedin: om-k-6b66a3272 # the part after ("https://www.linkedin.com/in")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://tahpni.github.io # the link
+about_button_label: My Best Project
 
 # optional portfolio section ------------------------------------------
 
