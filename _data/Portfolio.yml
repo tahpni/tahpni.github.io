@@ -5,7 +5,11 @@ Portfolio:
   - category: Project Highlights
     items:
       - item: example.html
-        image: /images/NYC1.jpg
+        image: <button class="btn btn-outline"
+                  type="button"
+                  onclick="window.open('https://github.com/tahpni/DigitIdentifier/tree/main', '_blank')">
+                  Chat Kami
+               </button>
     items:
       - item: example2.html
         image: /images/NYC1.jpg
