@@ -7,8 +7,8 @@ I’m also self-studying Computer Science with a focus on Machine Learning and A
 
 This GitHub Pages site showcases my projects and notes in various fields:
 
-	•	My Artificial Intelligence Projects
-	• 	To add: Cell Biology, Psychology, and Neuroscience resources.
+	•	My Machine Learning Projects
+	• 	Will add in future: Cell Biology, Psychology, and Neuroscience resources.
 
 ## Featured Projects
 
