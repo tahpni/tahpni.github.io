@@ -6,6 +6,9 @@ Portfolio:
     items:
       - item: example.html
         image: /images/NYC1.jpg
+    items:
+      - item: example2.html
+        image: /images/NYC1.jpg
   - category: Blog Posts
     items:
       - item: example2.html
