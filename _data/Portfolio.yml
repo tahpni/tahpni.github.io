@@ -1,0 +1,12 @@
+# this file organizes the items in your portfolio, which are placed in the _includes folder
+# in the root directory
+
+Portfolio:
+  - category: Project Highlights
+    items:
+      - item: example.html
+        image: /images/NYC1.jpg
+  - category: Blog Posts
+    items:
+      - item: example2.html
+        image: /images/LA1.jpg
