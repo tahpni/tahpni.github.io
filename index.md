@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Welcome to Om's Page
-banner_subtitle: Premed Student | Wannabe Programmer
+banner_subtitle: Premed Student | Programmer
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
