@@ -26,8 +26,8 @@ about_button_label: Get Started Here
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: Recent Updates # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: Updates # the heading for your portfolio and title of your YAML file
+portfolio_description: This section is frequently updated. # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -39,8 +39,7 @@ cta_button_label: Contact Me
 
 ---			
 [//]: # (write a bit about yourself here)
-Hi, I’m Om Kulkarni. I'm currently a junior at Rutgers University on the premed track.
-I’m also self-studying Computer Science with a focus on AI.
+I'm currently a junior at Rutgers University on the premed track. I self-study Computer Science with a focus on ML/AI.
 
 I enjoy reading and working out in my free time. I contribute to programs aiding in mental health and delirium prevention for all age groups, but with a focus on the senior adult population. I am also actively volunteering in the Emergency Room at JFK University Medical Center.
 
