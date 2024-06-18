@@ -1,0 +1,5 @@
+<button class="btn btn-outline"
+                  type="button"
+                  onclick="window.open('https://github.com/tahpni/DigitIdentifier/tree/main', '_blank')">
+            Chat Kami
+          </button>
